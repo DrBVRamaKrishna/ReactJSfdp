@@ -1,0 +1,23 @@
+{
+    "profile":{
+        "name": "dr B.V.Rama Krishna",
+        "designation": "Professor",
+        "profile_pic": "./images/dj.jpg",
+        "education": ["Phd - ANU State University", "M.Tech - Punjabi State University, Punjab", "M.Sc(CS) - AU, Vizag"]
+    },
+    "experience":{
+        "exp1": "Worked as a Oracle Programmer",
+        "exp2": "Working as a Professor"
+    },
+    "contact":{
+        "Block-No": "3", 
+        "Department": "Dept of CSE", 
+        "landmark": "Kakinada Institute of Engineering & Technology.", 
+        "city": "Koringa, Kakinada", 
+        "state": "Andhra Pradesh",
+        "pincode": " - 533 005",
+        "email": "DrBVRK.kiet@gmail.ac.in",
+        "mobile": "+91 9849 99578"
+    }
+
+}
